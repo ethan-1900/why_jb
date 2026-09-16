@@ -29,8 +29,6 @@
 **peaches**、**mood**、**stuck with u**、**the feeling**、**lonely**、**holy**、**hold on** 在非正常的假期里做伴。最火的是 **stay**。期间家人朋友平安无恙。
 ![图像](Attachments/A2A4202D-6490-41CC-9249-2FEF4CCC0D6D.jpeg)
 
-22 年数学 87 分。但没刚考完时难受。
-
 22 年底终是阳了，补看了世界杯决赛。
 很快便是高考，懵懂地做选择。
 
