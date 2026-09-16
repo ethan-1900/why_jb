@@ -22,7 +22,7 @@
 
 祖父因为肺部疾病离开了，与病毒无关。没问过具体病因，不过小学时回老家他总是烟不离嘴，长大后很少回去。这也成为后来听 **ghost** 的回忆碎片。
 
-**yummy**、**intentions**、**10000hours**、**come around me**、**attention**，婚后出的歌曲听来风格焕然一新。偶尔听听以前的老歌也有点厌倦了。
+**yummy**、**intentions**、**10,000hours**、**come around me**，婚后出的歌曲听来风格焕然一新。偶尔听听以前的老歌也有点厌倦了。
 
 **peaches**、**mood**、**stuck with u**、**the feeling**、**lonely**、**holy**、**hold on** 在非正常的假期里做伴。最火的是 **stay**。期间家人朋友平安无恙。
 ![图像](Attachments/A2A4202D-6490-41CC-9249-2FEF4CCC0D6D.jpeg)
