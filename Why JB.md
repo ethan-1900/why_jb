@@ -4,10 +4,10 @@
 
 记得清楚第一首是初二时某教育实践基地一同学唱的 **baby**，随即开始有一搭没一搭地听。
 
-将近十年前，初中学校的压力还是挺小，如今看来可谓散漫，家住二楼，三班教室在一楼，步行五分钟；每天七点到下午六点，作业在校完成，回家循环听 **as long as you love me** 和 **never say never**。老师寄予厚望，甚是关照，中考差两分错失市中。都是后话。彼时扫黑，平日聚在校门的社会青年们有天突然不见踪影。
+将近十年前，初中学校的压力还是挺小，如今看来可谓散漫，家住二楼，三班教室在一楼，步行五分钟；每天七点到下午六点，作业在校完成，回家循环 **as long as you love me** 和 **never say never**。老师寄予厚望，甚是关照，中考差两分错失市中。都是后话。彼时扫黑，平日聚在校门的社会青年们有天突然不见踪影。
 ![初中校门与晚霞](Attachments/junior-high-gate.jpeg)
 
-那段时间倒是 Alan Walker 的创作巅峰期，快放学时会有活泼的同学用大屏播 alone 和 all falls down；周末最是愉快，一个人在家，不补课，电视放着《爱情公寓》作白噪音，奈何实在 get 不到国民游戏的乐趣，打打单机也足以自娱。
+那段时间倒是 Alan Walker 的创作巅峰期，快放学时会有活泼的同学用大屏播 alone 和 all falls down；周末最是愉快，一个人在家，不补课，电视放着爱情公寓作白噪音，奈何实在 get 不到国民游戏的乐趣，打打单机也足以自娱。
 ![图像](Attachments/9E2D3D43-9874-4347-BEC3-DBAA8E801CA8.jpeg)
 
 没过多久听到 **despacito**、**purpose**、**company**、**let me love you**，惊艳有余。在学校里哼 **what do u mean**、**sorry**，同学也知道在唱什么，时不时回味下 **2U**、**friends**、**love me**、**home to mama**……与此同时，房地产风光无限，互联网开枝散叶，短视频平地而起，我知道的第一条抖音是唱 that girl 的中学男孩。
@@ -25,7 +25,7 @@
 
 祖父因为肺部疾病离开了，与病毒无关。没问过具体病因，不过小学时回老家他总是烟不离嘴，长大后很少回去。这也成为后来听 **ghost** 的回忆碎片。
 
-**yummy**、**intentions**、**10,000hours**、**come around me**，婚后出的歌曲听来风格焕然一新。偶尔听听以前的老歌也有点厌倦了。
+**10,000hours**、**come around me**、**yummy**、**intentions**，婚后出的歌曲听来风格焕然一新。偶尔听听以前的老歌也有点厌倦了。
 
 **peaches**、**mood**、**stuck with u**、**the feeling**、**lonely**、**holy**、**hold on** 在非正常的假期里做伴。最火的是 **stay**。期间家人朋友平安无恙。
 ![图像](Attachments/A2A4202D-6490-41CC-9249-2FEF4CCC0D6D.jpeg)
@@ -34,7 +34,7 @@
 
 很快便是高考，懵懂地做选择。
 
-大学学了吉他，觉得 **off my face** 很适合它的音色。英语老师在圣诞 eve 放了 **mistletoe**，至今没遇过那年冬天的大雪。
+大学学了吉他，**off my face** 很适合它的音色。英语老师在圣诞 eve 放了 **mistletoe**，至今没遇过那年冬天的大雪。
 ![那年冬天的大雪](Attachments/snowy-campus.jpeg)
 
 但更多听的是陈奕迅，很欣赏他词曲的神来之笔。某次 KTV 朋友唱 **monster** 和 **cold water**，很对我的胃口。
