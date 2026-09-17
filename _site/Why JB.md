@@ -27,14 +27,14 @@
 
 **10,000hours**、**come around me**、**yummy**、**intentions**，婚后出的歌曲听来风格焕然一新。偶尔听听以前的老歌也有点厌倦了。
 
-**peaches**、**mood**、**stuck with u**、**the feeling**、**lonely**、**holy**、**hold on** 在非正常的假期里做伴。最火的是 **stay**。期间家人朋友平安无恙。
+**peaches**、**lonely**、**stuck with u**、**the feeling**、**mood**、**holy**、**hold on** 在非正常的假期里做伴。最火的是 **stay**。期间家人朋友平安无恙。
 ![图像](Attachments/A2A4202D-6490-41CC-9249-2FEF4CCC0D6D.jpeg)
 
 22 年底终是阳了，补看了世界杯决赛。
 
 很快便是高考，懵懂地做选择。
 
-大学学了吉他，**off my face** 很合其音色。同年，许家印被带走。三年后判了无期。英语老师在圣诞 eve 放了 **mistletoe**，至今没遇过那年冬天的大雪。
+大学学了吉他，**off my face** 很合其音色。同年许家印被带走。三年后判了无期。英语老师在圣诞 eve 放了 **mistletoe**，至今没遇过那年冬天的大雪。
 ![那年冬天的大雪](Attachments/snowy-campus.jpeg)
 
 但更多听的是陈奕迅，很欣赏他词曲的神来之笔。某次 KTV 朋友唱 **monster** 和 **cold water**，很对我的胃口。
