@@ -34,15 +34,7 @@ content = re.sub(r'^# Why JB[^\n]*\n', '', source, count=1).lstrip()
 content = re.sub(r'==(.+?)==', r'<mark>\1</mark>', content)
 body = markdown.markdown(content, extensions=['extra', 'sane_lists'])
 body = re.sub(r'<img ', '<img loading="lazy" decoding="async" ', body)
-
-# 竖图、方图用 compact-image 缩小展示；横图不缩，统一铺到正文 90% 宽，边缘彼此对齐。
-for filename in dict.fromkeys(re.findall(r'Attachments/([^\s)]+\.jpeg)', source)):
-    original = ROOT / 'Attachments' / filename
-    with Image.open(original) as image:
-        width, height = ImageOps.exif_transpose(image).size
-    if width / height <= 1.15:
-        src = f'src="Attachments/{filename}"'
-        body = body.replace(src, f'class="compact-image" {src}')
+# 正文所有配图尺寸一致（width:80%、上限 430px，左右居中对齐），规则见 template.html。
 
 optimized_dir = ROOT / 'assets' / 'optimized'
 optimized_dir.mkdir(parents=True, exist_ok=True)
