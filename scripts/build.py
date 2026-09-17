@@ -10,10 +10,16 @@ content = re.sub(r'^# Why JB[^\n]*\n', '', source, count=1).lstrip()
 content = re.sub(r'==(.+?)==', r'<mark>\1</mark>', content)
 body = markdown.markdown(content, extensions=['extra', 'sane_lists'])
 body = re.sub(r'<img ', '<img loading="lazy" decoding="async" ', body)
-body = body.replace(
-    'src="Attachments/A82392B5-4DCA-4606-B153-D2C94CF879E4.jpeg"',
-    'class="compact-image" src="Attachments/A82392B5-4DCA-4606-B153-D2C94CF879E4.jpeg"',
-)
+compact_images = [
+    'A82392B5-4DCA-4606-B153-D2C94CF879E4.jpeg',
+    'A2A4202D-6490-41CC-9249-2FEF4CCC0D6D.jpeg',
+    '77B8E7E3-97ED-4C69-90D4-DB7D1EB41484.jpeg',
+    'A673730E-580B-4477-95F8-285364BD3EC1.jpeg',
+    '44C061B4-2C43-4B8D-A088-31B11AE2B2D9.jpeg',
+]
+for filename in compact_images:
+    src = f'src="Attachments/{filename}"'
+    body = body.replace(src, f'class="compact-image" {src}')
 template = (ROOT / 'template.html').read_text()
 page = template.replace('{{ARTICLE}}', body)
 out = ROOT / '_site'
