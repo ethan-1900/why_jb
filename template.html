@@ -20,7 +20,8 @@
     .ambient-layer--third{background-image:url("assets/jb-stage-mono-background.jpg");background-position:center 58%;opacity:0}
     .ambient-background::after{content:"";position:absolute;inset:0;background:radial-gradient(circle at 50% 38%,rgba(248,246,241,.12),rgba(248,246,241,.38) 78%)}
     body>header,body>main,body>footer{position:relative;z-index:1}
-    article,blockquote{font-size:20px}
+    @font-face{font-family:"Source Han Serif SC Web";src:url("assets/source-han-serif-sc-subset.woff2") format("woff2");font-weight:400;font-style:normal;font-display:swap}
+    article,blockquote{font-family:"Source Han Serif SC Web","Source Han Serif SC","Noto Serif CJK SC","Songti SC",serif;font-size:20px}
     article strong{background:transparent;padding:0;font-style:italic;font-weight:700}
     article img{max-width:90%}
     .compact-image{width:80%;max-width:430px;margin-left:auto;margin-right:auto}
@@ -35,7 +36,7 @@
   </div>
   <header class="masthead"><a href="./" class="wordmark">winters<span> / 随笔</span></a><a class="source" href="Why%20JB.md" download>原文 Markdown <span aria-hidden="true">↗</span></a></header>
   <main>
-    <div class="intro"><h1>Why <em>JB</em><span class="period">.</span></h1><div class="byline">文 / winters</div></div>
+    <div class="intro"><h1>Why <em>JB</em><span class="period">.</span></h1><div class="byline" aria-hidden="true"></div></div>
     <article aria-label="Why JB 正文">{{ARTICLE}}</article>
     <div class="endmark" aria-label="全文完">×</div>
   </main>

@@ -17,6 +17,7 @@ compact_images = [
     '77B8E7E3-97ED-4C69-90D4-DB7D1EB41484.jpeg',
     'A673730E-580B-4477-95F8-285364BD3EC1.jpeg',
     '44C061B4-2C43-4B8D-A088-31B11AE2B2D9.jpeg',
+    'ktv-memory.jpeg',
 ]
 for filename in compact_images:
     src = f'src="Attachments/{filename}"'

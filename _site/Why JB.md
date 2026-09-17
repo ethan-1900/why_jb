@@ -35,12 +35,14 @@
 ![那年冬天的大雪](Attachments/snowy-campus.jpeg)
 
 但更多听的是陈奕迅，很欣赏他词曲的神来之笔。某次 KTV 朋友唱 **monster** 和 **cold water**，很对我的胃口。
+![KTV 回忆](Attachments/ktv-memory.jpeg)
 
 25 年六月，一些心事，反复循环的 Alec Benjamin 与夏日的教室、偶有的雷雨绑定在心底。偶尔会听 **love yourself**。
 
 期间，聚散来去，渐渐学会淡然处之。
 
 有天小兰的 CV 去世了，忽然想起从前每年要去的剧场版也很久没看。
+![剧场版回忆](Attachments/conan-theater-memory.jpeg)
 
 <div class="two-line-gap" aria-hidden="true"></div>
 
