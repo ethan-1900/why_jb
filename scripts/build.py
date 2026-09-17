@@ -34,7 +34,7 @@ content = re.sub(r'^# Why JB[^\n]*\n', '', source, count=1).lstrip()
 content = re.sub(r'==(.+?)==', r'<mark>\1</mark>', content)
 body = markdown.markdown(content, extensions=['extra', 'sane_lists'])
 body = re.sub(r'<img ', '<img loading="lazy" decoding="async" ', body)
-# 正文所有配图尺寸一致（width:80%、上限 430px，左右居中对齐），规则见 template.html。
+# 正文所有配图尺寸一致（width:100%，即与正文栏同宽、左右对齐），规则见 template.html。
 
 optimized_dir = ROOT / 'assets' / 'optimized'
 optimized_dir.mkdir(parents=True, exist_ok=True)
