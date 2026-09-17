@@ -13,14 +13,24 @@
   <link rel="stylesheet" href="assets/style.css?v=20260916-3">
   <style>
     body{position:relative;isolation:isolate}
-    body::before{content:"";position:absolute;inset:0 0 auto;height:min(1200px,115vh);z-index:0;pointer-events:none;background:url("assets/jb-stage-background.jpg") center 28%/cover no-repeat;opacity:.2;-webkit-mask-image:linear-gradient(to bottom,#000 0%,rgba(0,0,0,.82) 55%,transparent 100%);mask-image:linear-gradient(to bottom,#000 0%,rgba(0,0,0,.82) 55%,transparent 100%)}
+    .ambient-background{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden;background:var(--paper)}
+    .ambient-layer{position:absolute;inset:0;background-size:cover;background-repeat:no-repeat;transition:opacity .18s linear;will-change:opacity}
+    .ambient-layer--first{background-image:url("assets/jb-stage-background.jpg");background-position:center 28%;opacity:.2}
+    .ambient-layer--second{background-image:url("assets/jb-hood-background.jpg");background-position:center 62%;opacity:0}
+    .ambient-layer--third{background-image:url("assets/jb-stage-mono-background.jpg");background-position:center 58%;opacity:0}
+    .ambient-background::after{content:"";position:absolute;inset:0;background:radial-gradient(circle at 50% 38%,rgba(248,246,241,.12),rgba(248,246,241,.38) 78%)}
     body>header,body>main,body>footer{position:relative;z-index:1}
     article,blockquote{font-size:22px}
     .compact-image{width:80%;max-width:430px;margin-left:auto;margin-right:auto}
-    @media(max-width:700px){body::before{height:950px;background-position:58% top;opacity:.16}article,blockquote{font-size:21px}}
+    @media(max-width:700px){.ambient-layer--first{background-position:58% center}.ambient-layer--second{background-position:48% center}.ambient-layer--third{background-position:58% center}article,blockquote{font-size:21px}}
   </style>
 </head>
 <body id="top">
+  <div class="ambient-background" aria-hidden="true">
+    <div class="ambient-layer ambient-layer--first"></div>
+    <div class="ambient-layer ambient-layer--second"></div>
+    <div class="ambient-layer ambient-layer--third"></div>
+  </div>
   <header class="masthead"><a href="./" class="wordmark">winters<span> / 随笔</span></a><a class="source" href="Why%20JB.md" download>原文 Markdown <span aria-hidden="true">↗</span></a></header>
   <main>
     <div class="intro"><h1>Why <em>JB</em><span class="period">.</span></h1><div class="byline">文 / winters</div></div>
@@ -28,5 +38,24 @@
     <div class="endmark" aria-label="全文完">×</div>
   </main>
   <footer><span>Why JB / winters</span><a href="#top">回到开头 ↑</a></footer>
+  <script>
+    (()=>{
+      const layers=[...document.querySelectorAll('.ambient-layer')];
+      let scheduled=false;
+      const draw=()=>{
+        const range=Math.max(1,document.documentElement.scrollHeight-innerHeight);
+        const progress=Math.min(1,Math.max(0,scrollY/range));
+        let weights;
+        if(progress<=.5){const mix=progress*2;weights=[1-mix,mix,0]}
+        else{const mix=(progress-.5)*2;weights=[0,1-mix,mix]}
+        layers.forEach((layer,index)=>layer.style.opacity=(weights[index]*.2).toFixed(3));
+        scheduled=false;
+      };
+      const update=()=>{if(!scheduled){scheduled=true;requestAnimationFrame(draw)}};
+      addEventListener('scroll',update,{passive:true});
+      addEventListener('resize',update);
+      draw();
+    })();
+  </script>
 </body>
 </html>
