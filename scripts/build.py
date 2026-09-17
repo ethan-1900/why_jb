@@ -34,17 +34,15 @@ content = re.sub(r'^# Why JB[^\n]*\n', '', source, count=1).lstrip()
 content = re.sub(r'==(.+?)==', r'<mark>\1</mark>', content)
 body = markdown.markdown(content, extensions=['extra', 'sane_lists'])
 body = re.sub(r'<img ', '<img loading="lazy" decoding="async" ', body)
-compact_images = [
-    'A82392B5-4DCA-4606-B153-D2C94CF879E4.jpeg',
-    'A2A4202D-6490-41CC-9249-2FEF4CCC0D6D.jpeg',
-    '77B8E7E3-97ED-4C69-90D4-DB7D1EB41484.jpeg',
-    'A673730E-580B-4477-95F8-285364BD3EC1.jpeg',
-    '44C061B4-2C43-4B8D-A088-31B11AE2B2D9.jpeg',
-    'ktv-memory.jpeg',
-]
-for filename in compact_images:
-    src = f'src="Attachments/{filename}"'
-    body = body.replace(src, f'class="compact-image" {src}')
+
+# 竖图、方图用 compact-image 缩小展示；横图不缩，统一铺到正文 90% 宽，边缘彼此对齐。
+for filename in dict.fromkeys(re.findall(r'Attachments/([^\s)]+\.jpeg)', source)):
+    original = ROOT / 'Attachments' / filename
+    with Image.open(original) as image:
+        width, height = ImageOps.exif_transpose(image).size
+    if width / height <= 1.15:
+        src = f'src="Attachments/{filename}"'
+        body = body.replace(src, f'class="compact-image" {src}')
 
 optimized_dir = ROOT / 'assets' / 'optimized'
 optimized_dir.mkdir(parents=True, exist_ok=True)
