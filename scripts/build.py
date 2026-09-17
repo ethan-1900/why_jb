@@ -1,8 +1,9 @@
-"""从原始 Markdown 生成博客；不修改文章或图片。"""
+"""从原始 Markdown 生成博客，并生成不覆盖原图的网页优化图片。"""
 from pathlib import Path
 import re
 import shutil
 import markdown
+from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
 source = (ROOT / 'Why JB.md').read_text()
@@ -20,6 +21,29 @@ compact_images = [
 for filename in compact_images:
     src = f'src="Attachments/{filename}"'
     body = body.replace(src, f'class="compact-image" {src}')
+
+optimized_dir = ROOT / 'assets' / 'optimized'
+optimized_dir.mkdir(parents=True, exist_ok=True)
+image_refs = dict.fromkeys(re.findall(r'Attachments/([^\s)]+\.jpeg)', source))
+for filename in image_refs:
+    original = ROOT / 'Attachments' / filename
+    optimized = optimized_dir / f'{original.stem}.webp'
+    with Image.open(original) as image:
+        image = ImageOps.exif_transpose(image).convert('RGB')
+        image.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
+        image.save(optimized, 'WEBP', quality=82, method=6)
+
+def use_optimized_image(match):
+    tag = match.group(0)
+    filename = match.group(1)
+    webp = f'assets/optimized/{Path(filename).stem}.webp'
+    return f'<picture><source srcset="{webp}" type="image/webp">{tag}</picture>'
+
+body = re.sub(
+    r'<img\b[^>]*\bsrc="Attachments/([^"/]+\.jpeg)"[^>]*>',
+    use_optimized_image,
+    body,
+)
 template = (ROOT / 'template.html').read_text()
 page = template.replace('{{ARTICLE}}', body)
 out = ROOT / '_site'
