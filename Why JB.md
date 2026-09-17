@@ -10,7 +10,7 @@
 那段时间倒是 Alan Walker 的创作巅峰期，快放学时会有活泼的同学用大屏播 alone 和 all falls down；周末最是愉快，一个人在家，不补课，电视放着爱情公寓作白噪音，奈何实在 get 不到国民游戏的乐趣，打打单机也足以自娱。
 ![图像](Attachments/9E2D3D43-9874-4347-BEC3-DBAA8E801CA8.jpeg)
 
-没多久听到 **despacito**、**purpose**、**company**、**let me love you**，惊艳有余。在学校哼 **what do u mean**、**sorry**，同学也会心一笑，时不时回味 **2U**、**friends**、**love me**、**home to mama**……与此同时，房地产风光无限，互联网开枝散叶，短视频平地而起，我知道的第一条抖音是唱 that girl 的中学男孩。
+没多久听到 **despacito**、**purpose**、**company**、**let me love you**，惊艳有余。在学校哼 **what do u mean**、**sorry**，同学也会心一笑，时不时回味 **2U**、**friends**、**love me**、**home to mama**……与此同时，房地产风光无限，互联网开枝散叶，短视频平地而起，知道的第一条抖音是唱 that girl 的中学男孩。
 ![JUSTIN BIEBER](Attachments/A82392B5-4DCA-4606-B153-D2C94CF879E4.jpeg)
 ![图像](Attachments/E6C97A0A-85D5-4742-9302-6EAB13E5D023.jpeg)
 
