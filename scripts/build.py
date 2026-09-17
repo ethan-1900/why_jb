@@ -10,6 +10,10 @@ content = re.sub(r'^# Why JB[^\n]*\n', '', source, count=1).lstrip()
 content = re.sub(r'==(.+?)==', r'<mark>\1</mark>', content)
 body = markdown.markdown(content, extensions=['extra', 'sane_lists'])
 body = re.sub(r'<img ', '<img loading="lazy" decoding="async" ', body)
+body = body.replace(
+    'src="Attachments/A82392B5-4DCA-4606-B153-D2C94CF879E4.jpeg"',
+    'class="compact-image" src="Attachments/A82392B5-4DCA-4606-B153-D2C94CF879E4.jpeg"',
+)
 template = (ROOT / 'template.html').read_text()
 page = template.replace('{{ARTICLE}}', body)
 out = ROOT / '_site'

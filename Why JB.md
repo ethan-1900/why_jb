@@ -11,7 +11,6 @@
 
 没过多久听到 **despacito**、**purpose**、**company**、**let me love you**，惊艳有余。在学校里哼 **what do u mean**、**sorry**，同学也知道在唱什么，时不时回味下 **2U**、**friends**、**love me**、**home to mama**……与此同时，房地产风光无限，互联网开枝散叶，短视频平地而起，我知道的第一条抖音是唱 that girl 的中学男孩。
 ![JUSTIN BIEBER](Attachments/A82392B5-4DCA-4606-B153-D2C94CF879E4.jpeg)
-{: .compact-image}
 ![图像](Attachments/E6C97A0A-85D5-4742-9302-6EAB13E5D023.jpeg)
 
 > 顺遂平淡，岁月静好。经济周期是只在新闻里听到的词语。
