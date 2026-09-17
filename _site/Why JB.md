@@ -47,11 +47,7 @@
 有天小兰的 CV 去世了，忽然想起从前每年要去的剧场版也很久没看。
 ![剧场版回忆](Attachments/conan-theater-memory.jpeg)
 
-<div class="one-line-gap" aria-hidden="true"></div>
-
-……
-
-所以怀念什么？
+---
 
 那里仿佛存在一道清晰、精准的分割线，此前的作品一律带着夏日的气息，轻快明媚如 freshmen；而后即使是同类型的也令人看不清底色，如同蒙上一层薄纱，不可同语。
 
