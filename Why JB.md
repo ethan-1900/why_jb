@@ -4,13 +4,13 @@
 
 记得清楚第一首是初二时某教育实践基地一同学唱的 **baby**，随即开始有一搭没一搭地听。
 
-近十年前，初中学校的压力还是挺小，如今看来可谓散漫，家住二楼，三班教室在一楼，步行五分钟；每天七点到下午六点，作业在校完成，回家循环 **as long as you love me** 和 **never say never**。老师寄予厚望，甚是关照，中考差两分错失市中。都是后话。彼时扫黑，平日聚在校门的社会青年们有天突然不见踪影。
+近十年前，初中学校的压力还是挺小，如今看来可谓散漫，家住二楼，三班教室在一楼，五分钟到；每天七点到下午六点，作业在校完成，回家循环 **as long as you love me** 和 **never say never**。老师寄予厚望，甚是关照，中考差两分错失市中。都是后话。彼时扫黑，平日聚在校门的社会青年们有天突然不见踪影。
 ![初中校门与晚霞](Attachments/junior-high-gate.jpeg)
 
 那段时间倒是 Alan Walker 的创作巅峰期，快放学时会有活泼的同学用大屏播 alone 和 all falls down；周末最是愉快，一个人在家，不补课，电视放着爱情公寓作白噪音，奈何实在 get 不到国民游戏的乐趣，打打单机也足以自娱。
 ![图像](Attachments/9E2D3D43-9874-4347-BEC3-DBAA8E801CA8.jpeg)
 
-没过多久听到 **despacito**、**purpose**、**company**、**let me love you**，惊艳有余。在学校里哼 **what do u mean**、**sorry**，同学也知道在唱什么，时不时回味下 **2U**、**friends**、**love me**、**home to mama**……与此同时，房地产风光无限，互联网开枝散叶，短视频平地而起，我知道的第一条抖音是唱 that girl 的中学男孩。
+没过多久听到 **despacito**、**purpose**、**company**、**let me love you**，惊艳有余。在学校里哼 **what do u mean**、**sorry**，同学也会心一笑，时不时回味下 **2U**、**friends**、**love me**、**home to mama**……与此同时，房地产风光无限，互联网开枝散叶，短视频平地而起，我知道的第一条抖音是唱 that girl 的中学男孩。
 ![JUSTIN BIEBER](Attachments/A82392B5-4DCA-4606-B153-D2C94CF879E4.jpeg)
 ![图像](Attachments/E6C97A0A-85D5-4742-9302-6EAB13E5D023.jpeg)
 
