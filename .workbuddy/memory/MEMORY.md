@@ -27,9 +27,18 @@ git push origin main                     # 推送后约 1 分钟 Pages 自动构
 ## 字体
 
 - 正文用自托管思源宋体子集 `assets/source-han-serif-sc-subset.woff2`，只收录生成当时
-  出现过的字符（当前 542 码位）。**改完文字务必跑 `scripts/subset_font.py`**，否则新字
-  静默回退到系统字体，与上下文出现字形差异（曾漏「打」）。
+  出现过的字符（当前 543 码位）。**改完文字务必跑 `scripts/subset_font.py`**，否则新字
+  静默回退到系统字体，与上下文出现字形差异（曾漏「打」、后补「谓」）。
 - 源字体：`~/Library/Fonts/SourceHanSerifSC-Regular.otf`。
+
+## 配图规则
+
+- **所有正文配图尺寸一致**：`template.html` 内联样式
+  `article img{width:80%;max-width:430px;margin-left:auto;margin-right:auto}`，
+  桌面端一律渲染 430px 宽，左右边缘完全对齐；窄屏统一为容器 80%。
+- 用户明确要求「以倒数第二张图为标准」，标准即该 430px。不再按横竖方向区分尺寸，
+  `build.py` 不给图片加任何 class，`.compact-image` 已废弃。
+- 图片放 `Attachments/`，构建自动生成 `assets/optimized/*.webp` 并用 `<picture>` 回退原图。
 
 ## 背景音乐
 
