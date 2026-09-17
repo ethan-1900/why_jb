@@ -10,7 +10,7 @@
 那段时间倒是 Alan Walker 的创作巅峰期，快放学时会有活泼的同学用大屏播 alone 和 all falls down；周末最是愉快，一个人在家，不补课，电视放着爱情公寓作白噪音，奈何实在 get 不到国民游戏的乐趣，打打单机也足以自娱。
 ![图像](Attachments/9E2D3D43-9874-4347-BEC3-DBAA8E801CA8.jpeg)
 
-没多久听到 **despacito**、**purpose**、**company**、**let me love you**，惊艳有余。在学校里哼 **what do u mean**、**sorry**，同学也会心一笑，时不时回味 **2U**、**friends**、**love me**、**home to mama**……与此同时，房地产风光无限，互联网开枝散叶，短视频平地而起，我知道的第一条抖音是唱 that girl 的中学男孩。
+没多久听到 **despacito**、**purpose**、**company**、**let me love you**，惊艳有余。在学校哼 **what do u mean**、**sorry**，同学也会心一笑，时不时回味 **2U**、**friends**、**love me**、**home to mama**……与此同时，房地产风光无限，互联网开枝散叶，短视频平地而起，我知道的第一条抖音是唱 that girl 的中学男孩。
 ![JUSTIN BIEBER](Attachments/A82392B5-4DCA-4606-B153-D2C94CF879E4.jpeg)
 ![图像](Attachments/E6C97A0A-85D5-4742-9302-6EAB13E5D023.jpeg)
 
@@ -27,14 +27,14 @@
 
 **10,000hours**、**come around me**、**yummy**、**intentions**，婚后出的歌曲听来风格焕然一新。偶尔听听以前的老歌也有点厌倦了。
 
-**peaches**、**lonely**、**stuck with u**、**the feeling**、**mood**、**holy**、**hold on** 在非正常的假期里做伴。最火的是 **stay**。期间家人朋友平安无恙。
+**peaches**、**lonely**、**stuck with u**、**the feeling**、**mood**、**holy**、**hold on** 在非正常的假期里做伴。最火的却是 **stay**。期间家人朋友平安无恙。
 ![图像](Attachments/A2A4202D-6490-41CC-9249-2FEF4CCC0D6D.jpeg)
 
 22 年底终是阳了，补看了世界杯决赛。
 
 很快便是高考，懵懂地做选择。
 
-大学学了吉他，**off my face** 很合其音色。同年许家印被带走。三年后判了无期。英语老师在圣诞 eve 放 **mistletoe**，至今没遇过那年冬天的大雪。
+大学学了吉他，**off my face** 很合其音色。同年许家印被带走。三年后判了无期。圣诞 eve 英语老师放 **mistletoe**，至今没遇过那年冬天的大雪。
 ![那年冬天的大雪](Attachments/snowy-campus.jpeg)
 
 但更多听的是陈奕迅，很欣赏他词曲的神来之笔。某次 KTV 朋友唱 **monster** 和 **cold water**，很对我的胃口。
